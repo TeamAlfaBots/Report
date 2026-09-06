@@ -1,0 +1,9 @@
+aiogram==2.3.4
+telethon==0.12.2
+sqlalchemy==2.0.25
+asyncio==3.4.3
+aiohttp==3.9.3
+flask==3.0.2
+uvicorn==0.27.1
+fastapi==0.109.2
+python-dotenv==1.0.1
